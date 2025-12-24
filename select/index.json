@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Don't Forget Where You Belong",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:07:34.452284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Forget Where You Belong",
+      "artist": "OneDirectionVEVO",
+      "has_synced": true,
+      "path": "select/01_Don't_Forget_Where_You_Belong_OneDirectionVEVO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Forget Where You Belong",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/02_Don't_Forget_Where_You_Belong_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Forget Where You Belong",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/03_Don't_Forget_Where_You_Belong_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Forget Where You Belong",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/04_Don't_Forget_Where_You_Belong_One_Direction.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don’t Forget Where You Belong",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/05_Don’t_Forget_Where_You_Belong_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don’t Forget Where You Belong",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/06_Don’t_Forget_Where_You_Belong_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Forget Where You Belong",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Forget_Where_You_Belong_One_Direction.txt"
+    }
+  ]
+}
